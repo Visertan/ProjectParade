@@ -1,1 +1,1 @@
-# YokaiParade
+# ProjectParade
